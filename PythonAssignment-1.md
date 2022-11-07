@@ -23,7 +23,7 @@ Q11. Can we use keywords as a variable? Support your answer with reason.
 
 Q12. What is indentation? What's the use of indentaion in Python?
 
-Q13. How can through some output in Python?
+Q13. How can we throw some output in Python?
 
 Q14. What are operators in Python?
 
