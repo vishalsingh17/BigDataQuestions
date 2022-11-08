@@ -73,3 +73,23 @@ Q25. Write a program to display only those numbers from a list that satisfy the 
 ```
 numbers = [12, 75, 150, 180, 145, 525, 50]
 ```
+
+Q26. What is a string? How can we declare string in Python?
+
+Q27. How can we access the string using its index?
+
+Q28. Write a code to get the desired output of the following
+```
+string = "Big Data iNeuron"
+desired_output = "iNeuron"
+```
+
+Q29. Write a code to get the desired output of the following
+```
+string = "Big Data iNeuron"
+desired_output = "norueNi"
+```
+
+Q30. Resverse the string given in the above question.
+
+Q31. 
