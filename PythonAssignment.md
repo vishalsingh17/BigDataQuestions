@@ -112,4 +112,57 @@ Q37. Write a code to access the word "iNeuron" from the given list.
 lst = [1,2,3,"Hi",[45,54, "iNeuron"], "Big Data"]
 ``` 
 
-Q38. 
+Q38. Take a list as an input from the user and find the length of the list.
+
+Q39. Add the word "Big" in the 3rd index of the given list.
+```
+lst = ["Welcome", "to", "Data", "course"]
+```
+
+Q40. What is a tuple? How is it different from list?
+
+Q41. How can you create a tuple in Python?
+
+Q42. Create a tuple and try to add your name in the tuple. Are you able to do it? Support your answer with reason.
+
+Q43. Can two tuple be appended. If yes, write a code for it. If not, why?
+
+Q44. Take a tuple as an input and print the count of elements in it.
+
+Q45. What are sets in Python?
+
+Q46. How can you create a set?
+
+Q47. Create a set and add "iNeuron" in your set.
+
+Q48. Try to add multiple values using add() function.
+
+Q49. How is update() different from add()?
+
+Q50. What is clear() in sets?
+
+Q51. What is frozen set?
+
+Q52. How is frozen set different from set?
+
+Q53. What is union() in sets? Explain via code.
+
+Q54. What is intersection() in sets? Explain via code.
+
+Q55. What is dictionary ibn Python?
+
+Q56. How is dictionary different from all other data structures.
+
+Q57. How can we delare a dictionary in Python?
+
+Q58. What will the output of the following?
+```
+var = {}
+print(type(var))
+```
+
+Q59. How can we add an element in a dictionary?
+
+Q60. Create a dictionary and access all the values in that dictionary.
+
+Q61. 
