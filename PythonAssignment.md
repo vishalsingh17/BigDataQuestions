@@ -165,4 +165,134 @@ Q59. How can we add an element in a dictionary?
 
 Q60. Create a dictionary and access all the values in that dictionary.
 
-Q61. 
+Q61. Create a nested dictionary and access all the element in the inner dictionary.
+
+Q62. What is the use of get() function?
+
+Q63. What is the use of items() function?
+
+Q64. What is the use of pop() function?
+
+Q65. What is the use of popitems() function?
+
+Q66. What is the use of keys() function?
+
+Q67. What is the use of values() function?
+
+Q68. What are loops in Python?
+
+Q69. How many type of loop are there in Python?
+
+Q70. What is the difference between for and while loops?
+
+Q71. What is the use of continue statement?
+
+Q72. What is the use of break statement?
+
+Q73. What is the use of pass statement?
+
+Q74. What is the use of range() function?
+
+Q75. How can you loop over a dictionary?
+
+
+### Coding problems
+Q76. Write a Python program to find the factorial of a given number.
+
+Q77. Write a Python program to calculate the simple interest. Formula to calculate simple interest is SI = (P*R*T)/100
+
+Q78. Write a Python program to calculate the compound interest. Formula of compound interest is A = P(1+ R/100)^t.
+
+Q79. Write a Python program to check if a number is prime or not.
+
+Q80. Write a Python program to check Armstrong Number.
+
+Q81. Write a Python program to find the n-th Fibonacci Number.
+
+Q82. Write a Python program to interchange the first and last element in a list.
+
+Q83. Write a Python program to swap two elements in a list.
+
+Q84. Write a Python program to find N largest element from a list.
+
+Q85. Write a Python program to find cumulative sum of a list.
+
+Q86. Write a Python program to check if a string is palindrome or not.
+
+Q87. Write a Python program to remove i'th element from a string.
+
+Q88. Write a Python program to check if a substring is present in a given string.
+
+Q89. Write a Python program to find words which are greater than given length k.
+
+Q90. Write a Python program to extract unquire dictionary values.
+
+Q91. Write a Python program to merge two dictionary.
+
+Q92. Write a Python program to convert a list of tuples into dictionary.
+```
+Input : [('Sachin', 10), ('MSD', 7), ('Kohli', 18), ('Rohit', 45)]
+Output : {'Sachin': 10, 'MSD': 7, 'Kohli': 18, 'Rohit': 45}
+```
+
+Q93. Write a Python program to create a list of tuples from given list having number and its cube in each tuple.
+```
+Input: list = [9, 5, 6]
+Output: [(9, 729), (5, 125), (6, 216)]
+```
+
+Q94. Write a Python program to get all combinations of 2 tuples.
+```
+Input : test_tuple1 = (7, 2), test_tuple2 = (7, 8)
+Output : [(7, 7), (7, 8), (2, 7), (2, 8), (7, 7), (7, 2), (8, 7), (8, 2)]
+```
+
+Q95. Write a Python program to sort a list of tuples by second item.
+```
+Input : [('for', 24), ('Geeks', 8), ('Geeks', 30)] 
+Output : [('Geeks', 8), ('for', 24), ('Geeks', 30)]
+```
+
+Q96. Write a python program to print below pattern.
+```
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+```
+Q97. Write a python program to print below pattern.
+```
+    *
+   **
+  ***
+ ****
+*****
+```
+
+Q98. Write a python program to print below pattern.
+```
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+```
+
+Q99. Write a python program to print below pattern.
+```
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5
+```
+
+Q100. Write a python program to print below pattern.
+```
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+```
